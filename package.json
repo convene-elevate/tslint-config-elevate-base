@@ -1,0 +1,19 @@
+{
+  "name": "tslint-config-elevate-base",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elevate's base TS TSLint config",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "tslint-microsoft-contrib": "^5.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
