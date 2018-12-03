@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-elevate-base",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Elevate's base TS TSLint config",
   "main": "tslint.json",
@@ -12,7 +12,7 @@
     "typescript": "^2.6.2"
   },
   "dependencies": {
-    "tslint-microsoft-contrib": "^5.0.2"
+    "tslint-microsoft-contrib": "^6.0.0"
   },
   "author": "",
   "license": "ISC"
